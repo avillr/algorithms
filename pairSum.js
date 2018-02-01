@@ -5,19 +5,6 @@
 // Sample input: [3, 5, -4, 8, 11, 1, -1, 6], 10
 // Sample output: [-1, 11]
 
-// function twoNumberSum(array, targetSum) {
-//   // Write your code here.
-//   let output = [];
-//   for (let i = 1; i < array.length; i++) {
-//     for (let j = 0; j < i; j++) {
-//       if (array[i] + array[j] === targetSum) {
-//         output = [array[i], array[j]];
-//       }
-//     }
-//   }
-//   return output.sort((a, b) => a > b);
-// }
-
 function twoNumberSum(array, targetSum) {
   array.sort((a, b) => a > b);
   let left = 0;
@@ -27,9 +14,9 @@ function twoNumberSum(array, targetSum) {
     if (sum === targetSum) {
       return [array[left], array[right]];
     } else if (sum < targetSum) {
-      left += 1;
+      left++;
     } else if (sum > targetSum) {
-      right -= 1;
+      right--;
     }
   }
   return [];
