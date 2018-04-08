@@ -1,4 +1,4 @@
-const calcEquation = function(equations, values, queries) {
+const calcEquation = (equations, values, queries) => {
   const output = []
   const graph = buildGraph({ equations, values })
   for (let i = 0; i < queries.length; i++) {
