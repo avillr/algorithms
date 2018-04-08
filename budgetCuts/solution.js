@@ -1,3 +1,4 @@
+// time: O(n-ish) space: O(n)
 function findGrantsCap(grantsArray, newBudget) {
   // evenly distribute budget to start
   let cap = newBudget / grantsArray.length
