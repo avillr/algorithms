@@ -66,3 +66,4 @@ A collection of solutions to common algorithm questions in both Javascript and G
 * [evaluateDivision](./TreesAndGraphs/evaluateDivision/prompt.md)
 * [inorderBstSuccessor](./TreesAndGraphs/inorderBstSuccessor/prompt.md)
 * [longestUnivaluePath](./TreesAndGraphs/longestUnivaluePath/prompt.md)
+* [validateBst](./TreesAndGraphs/validateBst/prompt.md)
