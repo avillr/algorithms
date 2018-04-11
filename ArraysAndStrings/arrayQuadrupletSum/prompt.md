@@ -18,3 +18,5 @@ output: [0, 4, 7, 9] # The ordered quadruplet of (7, 4, 0, 9)
                      # asked to return the just one quadruplet (in an
                      # ascending order)
 ```
+
+## [Solution](./solution.js)
