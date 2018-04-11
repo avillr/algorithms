@@ -55,9 +55,9 @@ A collection of solutions to common algorithm questions in both Javascript and G
 
 ### Sorting
 
-* [bubbleSort](./Sorting/bubbleSort/prompt.md)
-* [insertionSort](./Sorting/insertionSort/prompt.md)
-* [pancakeSort](./Sorting/pancakeSort/prompt.md)
+* [bubbleSort](./SortingAndSearching/bubbleSort/prompt.md)
+* [insertionSort](./SortingAndSearching/insertionSort/prompt.md)
+* [pancakeSort](./SortingAndSearching/pancakeSort/prompt.md)
 
 ### Trees and Graphs
 
