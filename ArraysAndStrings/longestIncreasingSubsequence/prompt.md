@@ -1,5 +1,7 @@
 # Longest Increasing Subsequence
 
+## [Solution (JS)](./solution.js)
+
 Given an array of integers, write a function that returns the longest strictly-increasing subsequence in that array. A subsequence is defined as a set of numbers that aren't necessarily adjacent but are in the same order they appear in the array. Assume there will only be one longest increasing subsequence.
 
 ```

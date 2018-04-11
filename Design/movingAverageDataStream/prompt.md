@@ -1,5 +1,7 @@
 # Moving Average from Data Stream
 
+## [Solution (JS)](./solution.js)
+
 Given a stream of integers and a window size, calculate the moving average of all integers in the sliding window.
 
 For example,

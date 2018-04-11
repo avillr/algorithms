@@ -1,4 +1,7 @@
 # Power Set
+
+## [Solution (JS)](./solution.js) / [Solution (Go)](./solution.go)
+
 Write a function that takes in an array of unique integers and returns its Power Set. A Power Set is a set of all the subsets of a set.
 
 ```

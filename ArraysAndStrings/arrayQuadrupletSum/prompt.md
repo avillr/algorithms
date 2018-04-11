@@ -1,5 +1,7 @@
 # Array Quadruplet
 
+## [Solution (JS)](./solution.js)
+
 Given an unsorted array of integers `arr` and a number `s`, write a function `findArrayQuadruplet` that finds four numbers (quadruplet) in `arr` that sum up to `s`. Your function should return an array of these numbers in an ascending order. If such a quadruplet doesn’t exist, return an empty array.
 
 Note that there may be more than one quadruplet in `arr` whose sum is `s`. You’re asked to return the first one you encounter (considering the results are sorted).
@@ -18,5 +20,3 @@ output: [0, 4, 7, 9] # The ordered quadruplet of (7, 4, 0, 9)
                      # asked to return the just one quadruplet (in an
                      # ascending order)
 ```
-
-## [Solution](./solution.js)

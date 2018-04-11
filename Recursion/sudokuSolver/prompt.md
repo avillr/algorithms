@@ -1,5 +1,7 @@
 # Sudoku Solver
 
+## [Solution (JS)](./solution.js)
+
 Write the function sudokuSolve that checks whether a given sudoku board (i.e. sudoku puzzle) is solvable. If so, the function will returns true. Otherwise (i.e. there is no valid solution to the given sudoku board), returns false.
 
 In sudoku, the objective is to fill a `9x9` board with digits so that each column, each row, and each of the nine `3x3` sub-boards that compose the board contains all of the digits from 1 to 9. The board setter provides a partially completed board, which for a well-posed board has a unique solution. `As explained above, for this problem, it suffices to calculate whether a given sudoku board has a solution. No need to return the actual numbers that make up a solution.`

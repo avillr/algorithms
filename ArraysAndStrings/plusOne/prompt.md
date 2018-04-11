@@ -1,5 +1,7 @@
 # Plus One
 
+## [Solution (JS)](./solution.js)
+
 Given a non-negative integer represented as a non-empty array of digits, add one to the integer.
 
 You may assume the integer does not contain any leading zeros, except the number 0 itself.

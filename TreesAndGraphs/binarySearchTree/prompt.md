@@ -1,4 +1,7 @@
 # Binary Search Tree
+
+## [Solution (JS)](./solution.js) / [Solution (Go)](./solution.go)
+
 Create a Binary Search Tree class with insert, contains, and remove methods. Every class should have a value (integer) and a left and right property which points to either null or another BST instance.
 
 ```

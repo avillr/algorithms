@@ -1,5 +1,7 @@
 # Decrypt Message
 
+## [Solution (JS)](./solution.js)
+
 An infamous gang of cyber criminals named “The Gray Cyber Mob”, which is behind many hacking attacks and drug trafficking, has recently become a target for the FBI. After intercepting some of their messages, which looked like complete nonsense, the agency learned that they indeed encrypt their messages, and studied their method of encryption.
 
 Their messages consist of lowercase latin letters only, and every word is encrypted separately as follows:

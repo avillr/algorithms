@@ -1,5 +1,7 @@
 # Merge k Sorted Lists
 
+## [Solution (JS)](./solution.js)
+
 Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
 
 ```

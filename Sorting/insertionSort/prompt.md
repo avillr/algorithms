@@ -1,4 +1,7 @@
 # Insertion Sort
+
+## [Solution (JS)](./solution.js) / [Solution (Go)](./solution.go)
+
 Write a function that takes an array of integers and sorts them using the insertion sort method.
 
 ```

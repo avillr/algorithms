@@ -1,5 +1,7 @@
 # Pancake Sort
 
+## [Solution (JS)](./solution.js)
+
 Given an array of integers arr:
 
 * Write a function flip(arr, k) that reverses the order of the first k elements in the array arr.

@@ -1,4 +1,7 @@
 # Bubble Sort
+
+## [Solution (JS)](./solution.js) / [Solution (Go)](./solution.go)
+
 Write a function that takes an array of integers and sorts them using the bubble sort method.
 
 "Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed, which indicates that the list is sorted. "
