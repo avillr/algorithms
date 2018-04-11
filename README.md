@@ -23,6 +23,7 @@ A collection of solutions to common algorithm questions in both Javascript and G
 * [repeatedStringMatch](./ArraysAndStrings/repeatedStringMatch/prompt.md)
 * [sentenceReverse](./ArraysAndStrings/sentenceReverse/prompt.md)
 * [smallestDifference](./ArraysAndStrings/smallestDifference/prompt.md)
+* [spiralMatrix](./ArraysAndStrings/spiralMatrix/prompt.md)
 
 ### Design
 
