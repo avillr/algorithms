@@ -62,6 +62,7 @@ A collection of solutions to common algorithm questions in both Javascript and G
 ### Trees and Graphs
 
 * [binarySearchTree](./TreesAndGraphs/binarySearchTree/prompt.md)
+* [closestBinarySearchTreeValue](./TreesAndGraphs/closestBinarySearchTreeValue/prompt.md)
 * [depthFirstSearch](./TreesAndGraphs/depthFirstSearch/prompt.md)
 * [evaluateDivision](./TreesAndGraphs/evaluateDivision/prompt.md)
 * [inorderBstSuccessor](./TreesAndGraphs/inorderBstSuccessor/prompt.md)
