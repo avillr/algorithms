@@ -14,6 +14,7 @@ A collection of solutions to common algorithm questions in both Javascript and G
 * [longestIncreasingSubsequence](./ArraysAndStrings/longestIncreasingSubsequence/prompt.md)
 * [longestSubstringWithAtMostKDistinctCharacters (whew)](./ArraysAndStrings/longestSubstringWithAtMostKDistinctCharacters/prompt.md)
 * [matchingBrackets](./ArraysAndStrings/matchingBrackets/prompt.md)
+* [medianOfTwoSortedArrays](./ArraysAndStrings/medianOfTwoSortedArrays/prompt.md)
 * [minNumberOfJumps](./ArraysAndStrings/minNumberOfJumps/prompt.md)
 * [pairSum](./ArraysAndStrings/pairSum/prompt.md)
 * [palindrome](./ArraysAndStrings/palindrome/prompt.md)
@@ -35,6 +36,7 @@ A collection of solutions to common algorithm questions in both Javascript and G
 
 * [fibonacci](./DynamicProgramming/fibonacci/prompt.md)
 * [levenshteinDistance](./DynamicProgramming/levenshteinDistance/prompt.md)
+* [rodCutting](./DynamicProgramming/rodCutting/prompt.md)
 * [wordBreak](./DynamicProgramming/wordBreak/prompt.md)
 
 ### Linked Lists
@@ -53,10 +55,12 @@ A collection of solutions to common algorithm questions in both Javascript and G
 * [numberOfPaths](./Recursion/numberOfPaths/prompt.md)
 * [sudokuSolver](./Recursion/sudokuSolver/prompt.md)
 
-### Sorting
+### Searching and Sorting
 
 * [bubbleSort](./SortingAndSearching/bubbleSort/prompt.md)
 * [insertionSort](./SortingAndSearching/insertionSort/prompt.md)
+* [kthLargestElementInArray](./SortingAndSearching/kthLargestElementInArray/prompt.md)
+* [minimumWindowSubstring](./SortingAndSearching/minimumWindowSubstring/prompt.md)
 * [pancakeSort](./SortingAndSearching/pancakeSort/prompt.md)
 
 ### Trees and Graphs
