@@ -1,4 +1,4 @@
-function findArrayQuadruplet(arr, s) {
+function findArrayQuadruplet (arr, s) {
   arr.sort((a, b) => a > b)
   for (let first = 0; first < arr.length - 3; first++) {
     for (let second = first + 1; second < arr.length - 2; second++) {
@@ -18,3 +18,5 @@ function findArrayQuadruplet(arr, s) {
   }
   return []
 }
+
+module.exports = { findArrayQuadruplet }

@@ -1,4 +1,4 @@
-function isPalindrome(string) {
+function isPalindrome (string) {
   let left = 0
   let right = string.length - 1
   while (left < right) {
@@ -8,3 +8,5 @@ function isPalindrome(string) {
   }
   return true
 }
+
+module.exports = { isPalindrome }

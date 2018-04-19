@@ -1,4 +1,4 @@
-function binarySearch(array, target) {
+function binarySearch (array, target) {
   let mid
   let min = 0
   let max = array.length - 1
@@ -16,3 +16,5 @@ function binarySearch(array, target) {
 
   return -1
 }
+
+module.exports = { binarySearch }

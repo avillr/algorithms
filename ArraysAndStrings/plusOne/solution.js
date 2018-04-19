@@ -2,7 +2,7 @@
  * @param {number[]} digits
  * @return {number[]}
  */
-var plusOne = function(digits) {
+const plusOne = function (digits) {
   let carry = 0
   let length = digits.length
 
@@ -28,3 +28,5 @@ var plusOne = function(digits) {
 
   return digits
 }
+
+module.exports = { plusOne }
