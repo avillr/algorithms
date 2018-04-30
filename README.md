@@ -2,6 +2,8 @@
 
 A collection of solutions to common algorithm questions in both Javascript and Go (sometimes).
 
+Javascript is formatted with ESlint and Standard for sanity, tests are run with Jest.
+
 ## Index
 
 ### Arrays and Strings
