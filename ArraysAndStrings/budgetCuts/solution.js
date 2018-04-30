@@ -1,12 +1,12 @@
 // time: O(n-ish) space: O(n)
-function findGrantsCap(grantsArray, newBudget) {
+function findGrantsCap (grantsArray, newBudget) {
   // evenly distribute budget to start
   let cap = newBudget / grantsArray.length
 
   // if we settle into the same cap we have reached a local minimum
   let newCap
   while (cap !== newCap) {
-    cap = newCap ? newCap : cap
+    cap = newCap || cap
 
     // find grants that are under current cap
     let underBudgetGrants = grantsArray.filter(el => el < cap)
@@ -20,3 +20,5 @@ function findGrantsCap(grantsArray, newBudget) {
 
   return newCap
 }
+
+module.exports = { findGrantsCap }
