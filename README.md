@@ -62,6 +62,7 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 * [bubbleSort](./SortingAndSearching/bubbleSort/prompt.md)
 * [insertionSort](./SortingAndSearching/insertionSort/prompt.md)
 * [kthLargestElementInArray](./SortingAndSearching/kthLargestElementInArray/prompt.md)
+* [mergeIntervals](./SortingAndSearching/mergeIntervals/prompt.md)
 * [minimumWindowSubstring](./SortingAndSearching/minimumWindowSubstring/prompt.md)
 * [pancakeSort](./SortingAndSearching/pancakeSort/prompt.md)
 

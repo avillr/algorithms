@@ -8,6 +8,9 @@
     "test": "jest",
     "test-watch": "jest --watch"
   },
+  "jest": {
+    "testPathIgnorePatterns": ["/node_modules/", "/_Template/"]
+  },
   "dependencies": {
     "eslint": "^4.19.1",
     "jest": "^22.4.3"
