@@ -19,6 +19,7 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 * [maxSlidingWindow](./ArraysAndStrings/maxSlidingWindow/prompt.md)
 * [medianOfTwoSortedArrays](./ArraysAndStrings/medianOfTwoSortedArrays/prompt.md)
 * [minNumberOfJumps](./ArraysAndStrings/minNumberOfJumps/prompt.md)
+* [moveZerosToLeft](./ArraysAndStrings/moveZerosToLeft/prompt.md)
 * [pairSum](./ArraysAndStrings/pairSum/prompt.md)
 * [palindrome](./ArraysAndStrings/palindrome/prompt.md)
 * [plusOne](./ArraysAndStrings/plusOne/prompt.md)
