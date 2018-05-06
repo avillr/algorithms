@@ -72,6 +72,7 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 * [mergeIntervals](./SortingAndSearching/mergeIntervals/prompt.md)
 * [minimumWindowSubstring](./SortingAndSearching/minimumWindowSubstring/prompt.md)
 * [pancakeSort](./SortingAndSearching/pancakeSort/prompt.md)
+* [quickSort](./SortingAndSearching/quickSort/prompt.md)
 
 ### Trees and Graphs
 
