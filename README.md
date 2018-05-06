@@ -25,6 +25,7 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 * [powerSet](./ArraysAndStrings/powerSet/prompt.md)
 * [rainWater](./ArraysAndStrings/rainWater/prompt.md)
 * [repeatedStringMatch](./ArraysAndStrings/repeatedStringMatch/prompt.md)
+* [searchRotatedArray](./ArraysAndStrings/searchRotatedArray/prompt.md)
 * [sentenceReverse](./ArraysAndStrings/sentenceReverse/prompt.md)
 * [smallestDifference](./ArraysAndStrings/smallestDifference/prompt.md)
 * [spiralMatrix](./ArraysAndStrings/spiralMatrix/prompt.md)
