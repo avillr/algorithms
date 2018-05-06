@@ -16,6 +16,7 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 * [longestIncreasingSubsequence](./ArraysAndStrings/longestIncreasingSubsequence/prompt.md)
 * [longestSubstringWithAtMostKDistinctCharacters (whew)](./ArraysAndStrings/longestSubstringWithAtMostKDistinctCharacters/prompt.md)
 * [matchingBrackets](./ArraysAndStrings/matchingBrackets/prompt.md)
+* [maxSlidingWindow](./ArraysAndStrings/maxSlidingWindow/prompt.md)
 * [medianOfTwoSortedArrays](./ArraysAndStrings/medianOfTwoSortedArrays/prompt.md)
 * [minNumberOfJumps](./ArraysAndStrings/minNumberOfJumps/prompt.md)
 * [pairSum](./ArraysAndStrings/pairSum/prompt.md)
@@ -36,6 +37,7 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 
 ### Dynamic Programming
 
+* [coinChange](./DynamicProgramming/coinChange/prompt.md)
 * [fibonacci](./DynamicProgramming/fibonacci/prompt.md)
 * [levenshteinDistance](./DynamicProgramming/levenshteinDistance/prompt.md)
 * [rodCutting](./DynamicProgramming/rodCutting/prompt.md)
