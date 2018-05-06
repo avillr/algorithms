@@ -52,6 +52,7 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 
 * [linkedListLoop](./LinkedLists/linkedListLoop/prompt.md)
 * [mergeKSortedLists](./LinkedLists/mergeKSortedLists/prompt.md)
+* [reverseSinglyLinkedList](./LinkedLists/reverseSinglyLinkedList/prompt.md)
 
 ### Other
 
