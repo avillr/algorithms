@@ -63,6 +63,7 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 ### Other
 
 * [boggle](./Other/boggle/prompt.md)
+* [LRUCache](./Other/LRUCache/prompt.md)
 * [rootNumber](./Other/rootNumber/prompt.md)
 * [wordDecryption](./Other/wordDecryption/prompt.md)
 
