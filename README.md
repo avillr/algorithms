@@ -11,6 +11,7 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 * [arrayQuadrupletSum](./ArraysAndStrings/arrayQuadrupletSum/prompt.md)
 * [binarySearch](./ArraysAndStrings/binarySearch/prompt.md)
 * [budgetCuts](./ArraysAndStrings/budgetCuts/prompt.md)
+* [findAllPalindromeSubstrings](./ArraysAndStrings/findAllPalindromeSubstrings/prompt.md)
 * [flattenDictionary](./ArraysAndStrings/flattenDictionary/prompt.md)
 * [kEmptySlots](./ArraysAndStrings/kEmptySlots/prompt.md)
 * [longestIncreasingSubsequence](./ArraysAndStrings/longestIncreasingSubsequence/prompt.md)
