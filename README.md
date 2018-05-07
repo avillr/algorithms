@@ -51,6 +51,7 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 ### Linked Lists
 
 * [deleteNode](./LinkedLists/deleteNode/prompt.md)
+* [intersectionPointOfTwoLists](./LinkedLists/intersectionPointOfTwoLists/prompt.md)
 * [linkedListLoop](./LinkedLists/linkedListLoop/prompt.md)
 * [mergeKSortedLists](./LinkedLists/mergeKSortedLists/prompt.md)
 * [removeDuplicatesFromList](./LinkedLists/removeDuplicatesFromList/prompt.md)
