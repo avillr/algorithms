@@ -32,6 +32,7 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 * [smallestCommonNumber](./ArraysAndStrings/smallestCommonNumber/prompt.md)
 * [smallestDifference](./ArraysAndStrings/smallestDifference/prompt.md)
 * [spiralMatrix](./ArraysAndStrings/spiralMatrix/prompt.md)
+* [stringSegmentation](./ArraysAndStrings/stringSegmentation/prompt.md)
 
 ### Design
 
