@@ -91,4 +91,5 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 * [evaluateDivision](./TreesAndGraphs/evaluateDivision/prompt.md)
 * [inorderBstSuccessor](./TreesAndGraphs/inorderBstSuccessor/prompt.md)
 * [longestUnivaluePath](./TreesAndGraphs/longestUnivaluePath/prompt.md)
+* [numberOfPossibleBinaryTreeTopologies](./TreesAndGraphs/numberOfPossibleBinaryTreeTopologies/prompt.md)
 * [validateBst](./TreesAndGraphs/validateBst/prompt.md)
