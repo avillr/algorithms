@@ -87,6 +87,7 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 ### Trees and Graphs
 
 * [binarySearchTree](./TreesAndGraphs/binarySearchTree/prompt.md)
+* [cloneDirectedGraph](./TreesAndGraphs/cloneDirectedGraph/prompt.md)
 * [closestBinarySearchTreeValue](./TreesAndGraphs/closestBinarySearchTreeValue/prompt.md)
 * [depthFirstSearch](./TreesAndGraphs/depthFirstSearch/prompt.md)
 * [evaluateDivision](./TreesAndGraphs/evaluateDivision/prompt.md)
