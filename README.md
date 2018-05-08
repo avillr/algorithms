@@ -46,6 +46,7 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 * [coinChange](./DynamicProgramming/coinChange/prompt.md)
 * [fibonacci](./DynamicProgramming/fibonacci/prompt.md)
 * [levenshteinDistance](./DynamicProgramming/levenshteinDistance/prompt.md)
+* [maxProfitWithKTransactions](./DynamicProgramming/maxProfitWithKTransactions/prompt.md)
 * [rodCutting](./DynamicProgramming/rodCutting/prompt.md)
 * [tripleStep](./DynamicProgramming/tripleStep/prompt.md)
 * [wordBreak](./DynamicProgramming/wordBreak/prompt.md)
