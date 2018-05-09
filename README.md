@@ -72,6 +72,7 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 ### Recursion
 
 * [numberOfPaths](./Recursion/numberOfPaths/prompt.md)
+* [permuteString](./Recursion/permuteString/prompt.md)
 * [sudokuSolver](./Recursion/sudokuSolver/prompt.md)
 
 ### Searching and Sorting
